@@ -1,0 +1,14 @@
+{
+  "name": "@bundled-es-modules/fetch-mock",
+  "version": "6.5.2",
+  "description": "mirror of fetch-mock, bundled and exposed as ES module",
+  "author": "Mikhail Bashkirov <bashmish@gmail.com>",
+  "main": "index.js",
+  "devDependencies": {
+    "fetch-mock": "6.5.2",
+    "rollup": "^0.66.0"
+  },
+  "scripts": {
+    "build": "rollup -c ./rollup.config.js"
+  }
+}

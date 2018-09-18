@@ -1,0 +1,5 @@
+{
+  "name": "fetch-mock",
+  "description": "mirror of fetch-mock, bundled and exposed as ES module",
+  "author": "Mikhail Bashkirov <bashmish@gmail.com>"
+}
